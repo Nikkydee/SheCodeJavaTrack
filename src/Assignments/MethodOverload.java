@@ -24,7 +24,6 @@ public class MethodOverload {
         System.out.println ( "This is my result in  int datatype: " + firstnum );
         System.out.println ( "This is my result in double datatype: " + secondnum );
 
-
     }
 
 }

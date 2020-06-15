@@ -17,7 +17,7 @@ public class MethodOverload {
     public static double printNum(double x, double y) {
         return x + y;
     }
-
+//decalring parameters for the methods
     public static void main(String[] args) {
         int firstnum = printNum ( 8, 5 );
         double secondnum = printNum ( 1.3, 2.8 );

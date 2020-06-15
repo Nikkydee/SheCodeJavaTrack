@@ -7,7 +7,7 @@ public class MyRunClass {
 //Declaring the statement for the method to print'running'
         System.out.println("Running");
     }
-
+//calling the method
     public static void main (String[] args){
         printRun();
     }

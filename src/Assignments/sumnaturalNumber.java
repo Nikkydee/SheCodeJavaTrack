@@ -1,3 +1,5 @@
+package Assignments;
+
 public class sumnaturalNumber {
 
     public static class addNumber {

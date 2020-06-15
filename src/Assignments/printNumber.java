@@ -1,3 +1,5 @@
+package Assignments;
+
 public class printNumber {
 
     public static void main(String[] args){

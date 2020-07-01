@@ -1,0 +1,4 @@
+1.# Question-What happens if static modifier is removed from the signature of a main method?
+Program compiles but a runtime throws error"  nosuchMethodError"
+2.# Question2- Which of these is a superclass of all classes.
+-java.Lang.Object

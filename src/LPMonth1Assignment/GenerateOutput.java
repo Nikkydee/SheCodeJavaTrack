@@ -14,5 +14,5 @@ public class GenerateOutput {
             10 1 20 11 30 21
 
    */
-
+ int num;
 }

@@ -3,25 +3,10 @@ package Assignments;
 import java.awt.*;
 
 public class abstractclass {
-    final int a = 20;
 
-    public void show ( ) {
-        System.out.println ( "This method is to display" );
-
-
-    }
-    abstract public void calculateArea();
-    }
-
-
-public class Rectangle extends abstractclass {
-    public static void main (String args[]) {
-        Rectangle obj = new Rectangle ( );
-        obj.show ( );
-        //obj.b=100;
     }
     //I have not really gotten the abstract class well. I have to read OOP all over
-}
+
 
 //Interface is an abstract class used to group related methods with empty bodies
 /*1. An abstract class can have both abstract and non-abstract methods while The interface can have only abstract methods.
